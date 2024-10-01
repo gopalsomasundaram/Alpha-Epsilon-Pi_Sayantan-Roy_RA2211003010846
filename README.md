@@ -2,6 +2,10 @@ Senti-Mapping
 
 Senti-Mapping is a sentiment analysis platform that uses NLP techniques to analyze users' Reddit posts, providing deep insights into their emotional trends. The platform integrates Hugging Face models for sentiment analysis and features a therapist interface for data interpretation, enabling users to engage in therapy sessions directly through the app.
 
+
+
+
+
 Features
 Reddit Data Sentiment Analysis: Users consent to the analysis of their Reddit posts, comments, and likes. Their data is processed using advanced sentiment analysis models from Hugging Face.
 
@@ -19,6 +23,8 @@ Video Calling Feature: Users can schedule and have video calling sessions with t
 
 
 
+
+
 Technologies Used
 
 Frontend: HTML, CSS, JavaScript
@@ -27,11 +33,16 @@ NLP Models: Hugging Face Transformers
 
 Video Call Integration: Agora
 
+
+
+
 Usage
 User: Sign up and connect your Reddit account by providing the necessary consent.
 
 
 Therapist: Access your dashboard to view patients' sentiment trends and engage in video calls.
+
+
 
 
 License
